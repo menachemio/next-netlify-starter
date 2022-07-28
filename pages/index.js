@@ -6,14 +6,15 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Billify.dev -Automated SaaS Billing</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Billify.dev - Automated SaaS Billing" />
+        
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+        Turn any database change into a billable event, without a programmer.
         </p>
       </main>
 
